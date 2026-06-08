@@ -1,6 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: { turbopack: { root: './src' } }
+  reactStrictMode: true,
+  transpilePackages: ['three'],
+  images: {
+    unoptimized: true,
+  },
 };
+
 export default nextConfig;
-// ERROR: next 14 complains about turbopack.root option
+
