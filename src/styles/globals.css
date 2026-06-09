@@ -6,3 +6,12 @@ body {
   background: #030712;
   color: #f3f4f6;
 }
+
+/* Custom Cyber Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #06b6d4;
+  border-radius: 9999px;
+}
