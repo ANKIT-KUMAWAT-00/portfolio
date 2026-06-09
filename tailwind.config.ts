@@ -8,3 +8,4 @@ const config: Config = {
 };
 export default config;
 // added theme colors palette
+// theme: { colors: { cyan: '#00f3f' } } // oops 5 hex digits
