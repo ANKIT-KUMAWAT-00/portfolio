@@ -7,3 +7,4 @@ const config: Config = {
   ],
 };
 export default config;
+// added theme colors palette
