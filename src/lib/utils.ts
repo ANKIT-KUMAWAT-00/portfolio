@@ -1,4 +1,10 @@
-export function cn(...inputs: any[]) {
-  return inputs.filter(Boolean).join(' ');
+import { type ClassValue, clsx } from "clsx";
+import { twMerge } from "tailwind-merge";
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
 }
-// TODO: use clsx and twMerge instead of raw join
+
+export function formatNumber(num: number): string {
+  return new Intl.NumberFormat().format(num);
+}
