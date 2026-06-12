@@ -16,3 +16,7 @@ body {
   border-radius: 9999px;
 }
 /* Firefox scrollbar issue */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #06b6d4 #030712;
+}
