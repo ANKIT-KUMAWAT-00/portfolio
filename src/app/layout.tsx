@@ -12,3 +12,4 @@ export const metadata = {
 };
 // fixed grammar typo in metadata
 /* polished meta */
+export const viewport = { themeColor: '#030712', width: 'device-width', initialScale: 1 };
