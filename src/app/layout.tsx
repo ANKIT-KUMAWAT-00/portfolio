@@ -11,3 +11,4 @@ export const metadata = {
   description: 'Personal 3D Portfolio showcasing AI Engineering, Full Stack SaaS, and System Architecture.',
 };
 // fixed grammar typo in metadata
+/* polished meta */
