@@ -1,4 +1,7 @@
 import '../styles/globals.css';
+import { Inter, Orbitron } from 'next/font/google';
+const inter = Inter({ subsets: ['latin'] });
+const orbitron = Orbitron({ subsets: ['latin'] });
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (<html><body>{children}</body></html>);
+  return (<html lang='en'><body className={`${inter.className} ${orbitron.className}`}>{children}</body></html>);
 }
