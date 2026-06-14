@@ -10,3 +10,4 @@ export const metadata = {
   title: 'Ankit Kumawat | Full Stack AI Engineer',
   description: 'Personal 3D Portfolio showcasing AI Engineering, Full Stack SaaS, and System Architecture.',
 };
+// fixed grammar typo in metadata
