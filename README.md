@@ -6,3 +6,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 - TypeScript & Tailwind CSS
 - Three.js / React Three Fiber
 - Framer Motion
+<!-- Dev server verified on localhost:3000 -->
