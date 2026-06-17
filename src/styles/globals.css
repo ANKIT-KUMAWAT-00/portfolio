@@ -27,3 +27,9 @@ body {
 .glow-purple {
   box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);
 }
+
+.glass-panel {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
