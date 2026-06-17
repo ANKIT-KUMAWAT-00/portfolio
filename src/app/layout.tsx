@@ -15,3 +15,4 @@ export const metadata = {
 export const viewport = { themeColor: '#030712', width: 'device-width', initialScale: 1 };
 // Hydration failed warning
 /* suppressHydrationWarning added */
+// cleaned up layout imports
