@@ -8,3 +8,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 - Framer Motion
 <!-- Dev server verified on localhost:3000 -->
 <!-- Production build passed -->
+<!-- Milestone 1 complete -->
