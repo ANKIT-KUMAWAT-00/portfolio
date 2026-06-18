@@ -4,3 +4,4 @@ export default function FuturisticHUD({ children }: { children: React.ReactNode 
 }
 /* scanlines added */
 // bug: pointer events blocked
+/* pointer-events-none fixed */
