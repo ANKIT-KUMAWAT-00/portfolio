@@ -16,3 +16,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // Hydration failed warning
 /* suppressHydrationWarning added */
 // cleaned up layout imports
+// added FuturisticHUD wrapper
