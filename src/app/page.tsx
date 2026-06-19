@@ -5,3 +5,4 @@ export default function Home() {
     </main>
   );
 }
+// anchors: about, experience, projects, skills, contact
