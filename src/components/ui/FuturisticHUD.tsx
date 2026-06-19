@@ -7,3 +7,4 @@ export default function FuturisticHUD({ children }: { children: React.ReactNode 
 /* pointer-events-none fixed */
 /* corner brackets added */
 // bug: brackets overflowing viewport
+/* fixed inset-0 applied */
