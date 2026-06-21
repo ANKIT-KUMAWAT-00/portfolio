@@ -7,3 +7,4 @@ export default function Home() {
 }
 // anchors: about, experience, projects, skills, contact
 // bug: anchor scroll offset
+/* scroll-mt-24 applied */
