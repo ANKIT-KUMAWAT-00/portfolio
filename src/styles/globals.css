@@ -48,3 +48,6 @@ html {
   scroll-behavior: smooth;
 }
 /* prefers-reduced-motion check */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
