@@ -60,3 +60,7 @@ html {
 }
 /* text-shadow padding issue */
 /* inline padding added */
+
+.border-cyber-gradient {
+  border-image: linear-gradient(to right, #06b6d4, #8b5cf6) 1;
+}
