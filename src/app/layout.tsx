@@ -17,3 +17,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 /* suppressHydrationWarning added */
 // cleaned up layout imports
 // added FuturisticHUD wrapper
+// themeColor support
