@@ -20,3 +20,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // themeColor support
 // openGraph tags: type, locale, url, title
 // og:image width & height warning
+/* og dimensions 1200x630 */
