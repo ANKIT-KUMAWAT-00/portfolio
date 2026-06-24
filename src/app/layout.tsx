@@ -19,3 +19,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // added FuturisticHUD wrapper
 // themeColor support
 // openGraph tags: type, locale, url, title
+// og:image width & height warning
