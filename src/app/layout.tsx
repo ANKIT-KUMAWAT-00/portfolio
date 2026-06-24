@@ -22,3 +22,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // og:image width & height warning
 /* og dimensions 1200x630 */
 // twitter card metadata
+// keywords: AI Engineer, LangGraph, Next.js, Three.js
