@@ -9,3 +9,7 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- Dev server verified on localhost:3000 -->
 <!-- Production build passed -->
 <!-- Milestone 1 complete -->
+
+### SEO & Indexing
+- Configured OpenGraph & Twitter Cards
+- Added canonical links and JSON-LD schema
