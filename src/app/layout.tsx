@@ -24,3 +24,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // twitter card metadata
 // keywords: AI Engineer, LangGraph, Next.js, Three.js
 // typo: 'typscript'
+/* typescript corrected */
