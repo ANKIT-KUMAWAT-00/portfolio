@@ -25,3 +25,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // keywords: AI Engineer, LangGraph, Next.js, Three.js
 // typo: 'typscript'
 /* typescript corrected */
+// canonical url tag
