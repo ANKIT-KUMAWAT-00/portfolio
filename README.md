@@ -13,3 +13,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 ### SEO & Indexing
 - Configured OpenGraph & Twitter Cards
 - Added canonical links and JSON-LD schema
+<!-- Initial Lighthouse audit: 96 Performance -->
