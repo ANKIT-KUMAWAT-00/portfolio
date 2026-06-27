@@ -9,3 +9,4 @@ export default function Home() {
 // bug: anchor scroll offset
 /* scroll-mt-24 applied */
 // layout shift warning
+/* min-height applied */
