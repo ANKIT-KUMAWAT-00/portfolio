@@ -71,3 +71,4 @@ html {
 /* clamp(2rem, 5vw, 3.5rem) */
 /* subtle noise layer */
 // z-index conflict
+/* z-index 1 and pointer-events-none */
