@@ -14,3 +14,4 @@ export function useMousePosition() {
 // bug: window.innerWidth is 0
 /* zero guard */
 // jitter issue on 144Hz
+/* RAF throttling */
