@@ -8,3 +8,4 @@ export function useMousePosition() {
   }, []);
   return mousePosition;
 }
+// SSR error: window undefined
