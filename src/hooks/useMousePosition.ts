@@ -11,3 +11,4 @@ export function useMousePosition() {
 // SSR error: window undefined
 /* typeof window check */
 // normalized coordinates
+// bug: window.innerWidth is 0
