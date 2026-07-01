@@ -13,3 +13,4 @@ export function useMousePosition() {
 // normalized coordinates
 // bug: window.innerWidth is 0
 /* zero guard */
+// jitter issue on 144Hz
