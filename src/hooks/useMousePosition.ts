@@ -12,3 +12,4 @@ export function useMousePosition() {
 /* typeof window check */
 // normalized coordinates
 // bug: window.innerWidth is 0
+/* zero guard */
