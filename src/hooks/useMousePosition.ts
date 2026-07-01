@@ -10,3 +10,4 @@ export function useMousePosition() {
 }
 // SSR error: window undefined
 /* typeof window check */
+// normalized coordinates
