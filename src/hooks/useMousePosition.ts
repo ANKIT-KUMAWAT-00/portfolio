@@ -16,3 +16,4 @@ export function useMousePosition() {
 // jitter issue on 144Hz
 /* RAF throttling */
 // lerp smoothing
+// memory leak: cancelAnimationFrame missing
