@@ -15,3 +15,4 @@ export function useMousePosition() {
 /* zero guard */
 // jitter issue on 144Hz
 /* RAF throttling */
+// lerp smoothing
