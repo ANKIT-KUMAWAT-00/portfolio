@@ -12,3 +12,4 @@ export function useScrollProgress() {
   return progress;
 }
 // NaN progress error
+/* totalHeight > 0 check */
