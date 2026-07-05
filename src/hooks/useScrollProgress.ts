@@ -1,16 +1,36 @@
-import { useState, useEffect } from 'react';
+"use client";
+
+import { useEffect, useState } from "react";
+
 export function useScrollProgress() {
-  const [progress, setProgress] = useState(0);
+  const [scrollProgress, setScrollProgress] = useState(0);
+  const [scrollY, setScrollY] = useState(0);
+
   useEffect(() => {
-    const handleScroll = () => {
+    let ticking = false;
+
+    const updateScroll = () => {
+      const currentScrollY = window.scrollY;
       const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
-      setProgress((window.scrollY / totalHeight) * 100);
+      const progress = totalHeight > 0 ? Math.min(Math.max(currentScrollY / totalHeight, 0), 1) : 0;
+
+      setScrollY(currentScrollY);
+      setScrollProgress(progress);
+      ticking = false;
     };
-    window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
+
+    const handleScroll = () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateScroll);
+        ticking = true;
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    updateScroll();
+
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
-  return progress;
+
+  return { scrollProgress, scrollY };
 }
-// NaN progress error
-/* totalHeight > 0 check */
-// iOS bounce overscroll
