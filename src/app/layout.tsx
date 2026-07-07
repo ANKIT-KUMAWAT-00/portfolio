@@ -26,3 +26,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // typo: 'typscript'
 /* typescript corrected */
 // canonical url tag
+// top scroll progress bar
