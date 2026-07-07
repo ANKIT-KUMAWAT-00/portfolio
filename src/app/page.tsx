@@ -10,3 +10,4 @@ export default function Home() {
 /* scroll-mt-24 applied */
 // layout shift warning
 /* min-height applied */
+// test mouse hook
