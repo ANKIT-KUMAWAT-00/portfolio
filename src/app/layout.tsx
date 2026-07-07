@@ -28,3 +28,4 @@ export const viewport = { themeColor: '#030712', width: 'device-width', initialS
 // canonical url tag
 // top scroll progress bar
 // progress bar transition lag
+/* will-change transform */
