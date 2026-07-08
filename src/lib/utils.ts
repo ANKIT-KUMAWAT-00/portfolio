@@ -15,3 +15,4 @@ export function formatNumber(num: number): string {
 // deprecated addListener warning
 /* addEventListener change */
 // local storage helper
+// incognito storage blocked
