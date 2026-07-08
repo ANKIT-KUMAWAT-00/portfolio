@@ -10,3 +10,4 @@ export function formatNumber(num: number): string {
 }
 // intersection observer utility
 // memory leak warning
+/* observer.disconnect */
