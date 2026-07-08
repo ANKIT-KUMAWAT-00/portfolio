@@ -9,3 +9,4 @@ export function formatNumber(num: number): string {
   return new Intl.NumberFormat().format(num);
 }
 // intersection observer utility
+// memory leak warning
