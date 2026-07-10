@@ -46,3 +46,4 @@ export function useMousePosition(): MousePosition {
 
   return position;
 }
+// clean debug logs
