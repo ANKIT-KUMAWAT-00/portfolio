@@ -8,14 +8,3 @@ export function cn(...inputs: ClassValue[]) {
 export function formatNumber(num: number): string {
   return new Intl.NumberFormat().format(num);
 }
-// intersection observer utility
-// memory leak warning
-/* observer.disconnect */
-// media query hook draft
-// deprecated addListener warning
-/* addEventListener change */
-// local storage helper
-// incognito storage blocked
-/* in-memory fallback */
-// math helpers
-// negative ranges test
