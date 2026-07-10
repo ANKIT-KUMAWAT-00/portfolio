@@ -18,3 +18,4 @@ export function formatNumber(num: number): string {
 // incognito storage blocked
 /* in-memory fallback */
 // math helpers
+// negative ranges test
