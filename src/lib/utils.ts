@@ -17,3 +17,4 @@ export function formatNumber(num: number): string {
 // local storage helper
 // incognito storage blocked
 /* in-memory fallback */
+// math helpers
