@@ -16,3 +16,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- Initial Lighthouse audit: 96 Performance -->
 <!-- Milestone 2 complete -->
 <!-- Hooks profiling: 0 unnecessary re-renders -->
+<!-- Milestone 3 complete -->
