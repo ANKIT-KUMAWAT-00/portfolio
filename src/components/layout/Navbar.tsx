@@ -5,3 +5,4 @@ export default function Navbar() {
 // links: About, Experience, Projects, Skills, Contact
 // logo: Ankit Kumawat / AI Engineer
 // flexbox alignment issue
+/* flex justify-between items-center */
