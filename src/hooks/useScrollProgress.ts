@@ -34,3 +34,4 @@ export function useScrollProgress() {
 
   return { scrollProgress, scrollY };
 }
+// JSDoc added
