@@ -6,3 +6,4 @@ export default function Navbar() {
 // logo: Ankit Kumawat / AI Engineer
 // flexbox alignment issue
 /* flex justify-between items-center */
+/* backdrop-blur-md */
