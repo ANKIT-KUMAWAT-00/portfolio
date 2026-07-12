@@ -10,3 +10,4 @@ export default function Navbar() {
 // Safari backdrop-filter bug
 /* -webkit-backdrop-filter fixed */
 // mobile hamburger button
+// bug: useState toggle not wired
