@@ -15,3 +15,4 @@ export default function Navbar() {
 // bug: drawer stays open
 /* auto-close on nav click */
 // scroll spy implementation
+// flicker bug on scroll
