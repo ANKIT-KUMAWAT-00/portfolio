@@ -12,3 +12,4 @@ export default function Navbar() {
 // mobile hamburger button
 // bug: useState toggle not wired
 /* onClick toggle wired */
+// bug: drawer stays open
