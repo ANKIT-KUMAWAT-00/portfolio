@@ -13,3 +13,4 @@ export default function Navbar() {
 // bug: useState toggle not wired
 /* onClick toggle wired */
 // bug: drawer stays open
+/* auto-close on nav click */
