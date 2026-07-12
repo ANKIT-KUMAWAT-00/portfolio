@@ -8,3 +8,4 @@ export default function Navbar() {
 /* flex justify-between items-center */
 /* backdrop-blur-md */
 // Safari backdrop-filter bug
+/* -webkit-backdrop-filter fixed */
