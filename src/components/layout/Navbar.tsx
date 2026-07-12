@@ -14,3 +14,4 @@ export default function Navbar() {
 /* onClick toggle wired */
 // bug: drawer stays open
 /* auto-close on nav click */
+// scroll spy implementation
