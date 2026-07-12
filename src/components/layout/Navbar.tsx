@@ -7,3 +7,4 @@ export default function Navbar() {
 // flexbox alignment issue
 /* flex justify-between items-center */
 /* backdrop-blur-md */
+// Safari backdrop-filter bug
