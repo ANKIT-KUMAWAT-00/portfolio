@@ -20,3 +20,4 @@ export default function Navbar() {
 // framer-motion layoutId pill
 // pill initial jump bug
 /* isMounted check for pill */
+// CTA button
