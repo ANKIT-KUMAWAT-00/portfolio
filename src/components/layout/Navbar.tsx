@@ -16,3 +16,4 @@ export default function Navbar() {
 /* auto-close on nav click */
 // scroll spy implementation
 // flicker bug on scroll
+/* debounced section spy */
