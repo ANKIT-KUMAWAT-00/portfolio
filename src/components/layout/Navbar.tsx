@@ -19,3 +19,4 @@ export default function Navbar() {
 /* debounced section spy */
 // framer-motion layoutId pill
 // pill initial jump bug
+/* isMounted check for pill */
