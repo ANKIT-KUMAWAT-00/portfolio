@@ -17,3 +17,4 @@ export default function Navbar() {
 // scroll spy implementation
 // flicker bug on scroll
 /* debounced section spy */
+// framer-motion layoutId pill
