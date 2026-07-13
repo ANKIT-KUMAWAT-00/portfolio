@@ -18,3 +18,4 @@ export default function Navbar() {
 // flicker bug on scroll
 /* debounced section spy */
 // framer-motion layoutId pill
+// pill initial jump bug
