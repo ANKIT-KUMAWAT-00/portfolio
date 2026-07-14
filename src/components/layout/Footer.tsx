@@ -9,3 +9,4 @@ export default function Footer() {
 // back-to-top button
 // button shouldn't show at top
 /* scrollY > 400 check */
+// window.scrollTo({ behavior: 'smooth' }) fallback
