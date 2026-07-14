@@ -7,3 +7,4 @@ export default function Footer() {
 /* target _blank rel noopener */
 // new Date().getFullYear()
 // back-to-top button
+// button shouldn't show at top
