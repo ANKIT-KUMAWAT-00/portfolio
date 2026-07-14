@@ -6,3 +6,4 @@ export default function Footer() {
 // missing target='_blank'
 /* target _blank rel noopener */
 // new Date().getFullYear()
+// back-to-top button
