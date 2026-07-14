@@ -4,3 +4,4 @@ export default function Footer() {
 }
 // socials: GitHub, LinkedIn, Twitter, Email
 // missing target='_blank'
+/* target _blank rel noopener */
