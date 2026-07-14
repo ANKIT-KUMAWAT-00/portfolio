@@ -8,3 +8,4 @@ export default function Footer() {
 // new Date().getFullYear()
 // back-to-top button
 // button shouldn't show at top
+/* scrollY > 400 check */
