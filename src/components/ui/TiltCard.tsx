@@ -4,3 +4,4 @@ export default function TiltCard({ children }: { children: React.ReactNode }) {
 }
 // 3d tilt transforms
 // inverted tilt bug
+/* rotateY * -1 */
