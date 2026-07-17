@@ -8,3 +8,4 @@ export default function TiltCard({ children }: { children: React.ReactNode }) {
 // abrupt mouse leave transition
 /* spring damping transition */
 // holographic glare layer
+// glare blocking click events
