@@ -6,3 +6,4 @@ export default function TiltCard({ children }: { children: React.ReactNode }) {
 // inverted tilt bug
 /* rotateY * -1 */
 // abrupt mouse leave transition
+/* spring damping transition */
