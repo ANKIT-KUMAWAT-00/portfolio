@@ -12,3 +12,4 @@ export default function Home() {
 /* min-height applied */
 // test mouse hook
 // test scroll hook
+// Navbar & Footer added to page
