@@ -5,3 +5,4 @@ export default function Hero() {
 // headline: Architecting Next-Gen AI Systems
 // typewriter effect
 // typewriter timer bug
+/* clearTimeout in useEffect */
