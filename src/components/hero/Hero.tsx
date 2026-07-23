@@ -7,3 +7,4 @@ export default function Hero() {
 // typewriter timer bug
 /* clearTimeout in useEffect */
 // availability badge
+// layout reflow bug
