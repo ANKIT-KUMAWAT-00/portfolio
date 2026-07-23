@@ -8,3 +8,4 @@ export default function Hero() {
 /* clearTimeout in useEffect */
 // availability badge
 // layout reflow bug
+/* transform scale and opacity */
