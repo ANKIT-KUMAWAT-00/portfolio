@@ -1,0 +1,4 @@
+import React from 'react';
+export default function HeroPortrait() {
+  return <div className='relative w-64 h-64'>Portrait</div>;
+}
