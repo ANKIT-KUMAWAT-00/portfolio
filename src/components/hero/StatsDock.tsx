@@ -5,3 +5,4 @@ export default function StatsDock() {
 // stats data array
 // mobile overflow bug
 /* grid-cols-2 sm:grid-cols-4 */
+// count-up animation
