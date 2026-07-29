@@ -8,3 +8,4 @@ export default function HeroPortrait() {
 /* priority & sizes */
 // cyber border frame
 // border glow clip issue
+/* unclipped glow container */
