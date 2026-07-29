@@ -7,3 +7,4 @@ export default function HeroPortrait() {
 // LCP priority warning
 /* priority & sizes */
 // cyber border frame
+// border glow clip issue
