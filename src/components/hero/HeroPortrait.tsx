@@ -5,3 +5,4 @@ export default function HeroPortrait() {
 // next/image warning
 /* local static import */
 // LCP priority warning
+/* priority & sizes */
