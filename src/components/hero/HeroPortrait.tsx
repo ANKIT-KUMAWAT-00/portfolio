@@ -13,3 +13,4 @@ export default function HeroPortrait() {
 // tablet badge collision
 /* responsive clamp positioning */
 // portrait mouse parallax
+// parallax sensitivity issue
