@@ -10,3 +10,4 @@ export default function HeroPortrait() {
 // border glow clip issue
 /* unclipped glow container */
 // floating tech badges
+// tablet badge collision
