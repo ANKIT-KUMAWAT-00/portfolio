@@ -12,3 +12,4 @@ export default function HeroPortrait() {
 // floating tech badges
 // tablet badge collision
 /* responsive clamp positioning */
+// portrait mouse parallax
