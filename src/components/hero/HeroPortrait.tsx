@@ -11,3 +11,4 @@ export default function HeroPortrait() {
 /* unclipped glow container */
 // floating tech badges
 // tablet badge collision
+/* responsive clamp positioning */
