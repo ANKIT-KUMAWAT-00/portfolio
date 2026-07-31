@@ -9,3 +9,4 @@ export default function HeroPortrait() {
 // cyber border frame
 // border glow clip issue
 /* unclipped glow container */
+// floating tech badges
