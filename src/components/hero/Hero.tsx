@@ -9,3 +9,4 @@ export default function Hero() {
 // availability badge
 // layout reflow bug
 /* transform scale and opacity */
+// hero CTA action buttons
