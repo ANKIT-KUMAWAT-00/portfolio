@@ -14,3 +14,4 @@ export default function HeroPortrait() {
 /* responsive clamp positioning */
 // portrait mouse parallax
 // parallax sensitivity issue
+/* factor 0.015 */
