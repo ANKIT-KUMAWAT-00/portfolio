@@ -10,3 +10,4 @@ export default function Hero() {
 // layout reflow bug
 /* transform scale and opacity */
 // hero CTA action buttons
+// anchor scroll bug
