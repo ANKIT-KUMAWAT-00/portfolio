@@ -11,3 +11,4 @@ export default function Hero() {
 /* transform scale and opacity */
 // hero CTA action buttons
 // anchor scroll bug
+/* smooth scroll handler */
