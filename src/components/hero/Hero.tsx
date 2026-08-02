@@ -14,3 +14,4 @@ export default function Hero() {
 /* smooth scroll handler */
 // HeroPortrait and StatsDock integrated
 // mobile landscape overflow
+/* min-h-[90vh] */
