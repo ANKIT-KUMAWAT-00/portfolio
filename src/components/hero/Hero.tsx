@@ -12,3 +12,4 @@ export default function Hero() {
 // hero CTA action buttons
 // anchor scroll bug
 /* smooth scroll handler */
+// HeroPortrait and StatsDock integrated
