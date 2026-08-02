@@ -13,3 +13,4 @@ export default function Hero() {
 // anchor scroll bug
 /* smooth scroll handler */
 // HeroPortrait and StatsDock integrated
+// mobile landscape overflow
