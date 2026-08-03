@@ -15,3 +15,4 @@ export default function Hero() {
 // HeroPortrait and StatsDock integrated
 // mobile landscape overflow
 /* min-h-[90vh] */
+// background trigger
