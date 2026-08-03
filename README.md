@@ -19,3 +19,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- Milestone 3 complete -->
 <!-- Mobile navigation tested -->
 <!-- Milestone 4 complete -->
+<!-- Cross-browser Hero verified -->
