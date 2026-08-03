@@ -13,3 +13,4 @@ export default function Home() {
 // test mouse hook
 // test scroll hook
 // Navbar & Footer added to page
+// Hero mounted in page.tsx
