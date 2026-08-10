@@ -4,3 +4,4 @@ export default function Lighting() {
 }
 // overexposed lighting bug
 /* ambient 0.35, directional 0.8 */
+// cyan pointLight
