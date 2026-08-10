@@ -6,3 +6,4 @@ export default function CameraRig({ children }: { children: React.ReactNode }) {
 // camera lerping
 // cursor exit boundary jerk
 /* clamp target coordinates */
+// idle recentering
