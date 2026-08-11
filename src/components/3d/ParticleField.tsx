@@ -4,3 +4,4 @@ export default function ParticleField() {
 }
 // 5000 particles
 // performance bottleneck
+/* BufferGeometry points */
