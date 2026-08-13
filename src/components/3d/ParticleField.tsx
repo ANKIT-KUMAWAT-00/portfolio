@@ -7,3 +7,4 @@ export default function ParticleField() {
 /* BufferGeometry points */
 // frustum culling issue
 /* frustumCulled false */
+// useFrame particle drift
