@@ -9,3 +9,4 @@ export default function ParticleField() {
 /* frustumCulled false */
 // useFrame particle drift
 // delta scale bug
+/* delta time scaling */
