@@ -6,3 +6,4 @@ export default function ParticleField() {
 // performance bottleneck
 /* BufferGeometry points */
 // frustum culling issue
+/* frustumCulled false */
