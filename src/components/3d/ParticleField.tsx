@@ -10,3 +10,4 @@ export default function ParticleField() {
 // useFrame particle drift
 // delta scale bug
 /* delta time scaling */
+// points material with circular alpha
