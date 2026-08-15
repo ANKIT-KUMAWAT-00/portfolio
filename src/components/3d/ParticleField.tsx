@@ -12,3 +12,4 @@ export default function ParticleField() {
 /* delta time scaling */
 // points material with circular alpha
 // black halo blending bug
+/* transparent true depthWrite false */
