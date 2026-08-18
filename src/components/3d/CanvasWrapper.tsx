@@ -1,6 +1,16 @@
-import dynamic from 'next/dynamic';
-import React from 'react';
-const Scene = dynamic(() => import('./Scene3D'), { ssr: false });
-export default function CanvasWrapper() {
-  return <div className='fixed inset-0 pointer-events-none z-0'><Scene /></div>;
+"use client";
+
+import dynamic from "next/dynamic";
+import React from "react";
+
+const Global3DScene = dynamic(
+  () => import("./Global3DScene").then((mod) => mod.Global3DScene),
+  {
+    ssr: false,
+    loading: () => <div className="fixed inset-0 bg-[#0B0806] -z-10" />,
+  }
+);
+
+export function CanvasWrapper() {
+  return <Global3DScene />;
 }
