@@ -14,3 +14,4 @@ const Global3DScene = dynamic(
 export function CanvasWrapper() {
   return <Global3DScene />;
 }
+// text selection blocked
