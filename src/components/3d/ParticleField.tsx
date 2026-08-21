@@ -91,3 +91,4 @@ export function ParticleField({ count = 900, reducedMotion = false }: ParticleFi
     </instancedMesh>
   );
 }
+// geometry dispose cleanup
