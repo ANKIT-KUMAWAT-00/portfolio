@@ -3,3 +3,4 @@ export default function CyberGrid() {
   return <group>Grid</group>;
 }
 // planeGeometry wireframe
+// z-fighting flicker bug
