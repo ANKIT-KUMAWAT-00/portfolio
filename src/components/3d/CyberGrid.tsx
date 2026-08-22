@@ -4,3 +4,4 @@ export default function CyberGrid() {
 }
 // planeGeometry wireframe
 // z-fighting flicker bug
+/* exponential fog */
