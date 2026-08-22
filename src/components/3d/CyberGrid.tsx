@@ -7,3 +7,4 @@ export default function CyberGrid() {
 /* exponential fog */
 // high-DPI line width issue
 /* anti-aliased grid shader */
+// grid forward scroll
