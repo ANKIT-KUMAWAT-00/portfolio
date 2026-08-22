@@ -8,3 +8,4 @@ export default function CyberGrid() {
 // high-DPI line width issue
 /* anti-aliased grid shader */
 // grid forward scroll
+// scroll reset stutter
