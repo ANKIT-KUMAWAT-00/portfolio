@@ -9,3 +9,4 @@ export default function CyberGrid() {
 /* anti-aliased grid shader */
 // grid forward scroll
 // scroll reset stutter
+/* seamless modulo loop */
