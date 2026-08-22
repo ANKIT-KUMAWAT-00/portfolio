@@ -6,3 +6,4 @@ export default function CyberGrid() {
 // z-fighting flicker bug
 /* exponential fog */
 // high-DPI line width issue
+/* anti-aliased grid shader */
