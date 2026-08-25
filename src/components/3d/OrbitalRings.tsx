@@ -3,3 +3,4 @@ export default function OrbitalRings() {
   return <group>Rings</group>;
 }
 // torus geometry rings
+// ring rotation speed bug
