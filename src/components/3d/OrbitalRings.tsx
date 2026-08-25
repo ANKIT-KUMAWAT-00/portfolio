@@ -4,3 +4,4 @@ export default function OrbitalRings() {
 }
 // torus geometry rings
 // ring rotation speed bug
+/* rotation speed * 0.35 */
