@@ -7,3 +7,4 @@ export default function OrbitalRings() {
 /* rotation speed * 0.35 */
 // hover tilt interaction
 // unnecessary re-render bug
+/* direct ref mutation */
