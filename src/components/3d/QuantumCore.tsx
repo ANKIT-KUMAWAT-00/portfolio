@@ -5,3 +5,4 @@ export default function QuantumCore() {
 // icosahedron wireframe
 // depth sorting error
 /* transparent & depthWrite fix */
+// Math.sin pulse scale
