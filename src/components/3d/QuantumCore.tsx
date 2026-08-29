@@ -6,3 +6,4 @@ export default function QuantumCore() {
 // depth sorting error
 /* transparent & depthWrite fix */
 // Math.sin pulse scale
+// pulse frequency issue
