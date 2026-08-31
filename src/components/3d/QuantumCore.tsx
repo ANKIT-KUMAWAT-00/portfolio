@@ -7,3 +7,4 @@ export default function QuantumCore() {
 /* transparent & depthWrite fix */
 // Math.sin pulse scale
 // pulse frequency issue
+/* 0.5Hz breathing pulse */
