@@ -6,3 +6,4 @@ export default function Scene3D() {
 // WebGL context lost bug
 /* webgl context restore */
 // Lighting, CameraRig, ParticleField mounted
+// CyberGrid, OrbitalRings, QuantumCore integrated
