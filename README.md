@@ -25,3 +25,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- WebGL FPS: 60fps stable -->
 <!-- Milestone 6 complete -->
 <!-- GPU VRAM: 42MB (extremely lightweight) -->
+<!-- Retina scaling dpr={[1, 2]} verified -->
