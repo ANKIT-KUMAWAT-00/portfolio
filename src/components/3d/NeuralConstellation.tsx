@@ -4,3 +4,4 @@ export default function NeuralConstellation() {
 }
 // node network generation
 // GC pause memory allocation bug
+/* preallocated buffer geometry */
