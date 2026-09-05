@@ -3,3 +3,4 @@ export default function ContactVortex() {
   return <group>Vortex</group>;
 }
 // particle vortex spiral math
+// singularity clustering bug
