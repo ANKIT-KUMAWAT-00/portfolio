@@ -4,3 +4,4 @@ export default function ClassicalStructure() {
 }
 // wireframe columns
 // mobile scale overflow bug
+/* responsive scale factor */
