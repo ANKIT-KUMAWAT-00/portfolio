@@ -4,3 +4,4 @@ export default function InteractiveSkills3D() {
 }
 // spherical tag cloud
 // font glyph rendering bug
+/* system font fallback */
