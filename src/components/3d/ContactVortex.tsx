@@ -4,3 +4,4 @@ export default function ContactVortex() {
 }
 // particle vortex spiral math
 // singularity clustering bug
+/* min radius constraint */
