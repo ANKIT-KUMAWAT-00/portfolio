@@ -28,3 +28,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- Retina scaling dpr={[1, 2]} verified -->
 <!-- Milestone 7 complete -->
 <!-- 3D pipeline complete -->
+<!-- Milestone 8 complete -->
