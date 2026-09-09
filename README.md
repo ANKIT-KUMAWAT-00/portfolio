@@ -27,3 +27,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- GPU VRAM: 42MB (extremely lightweight) -->
 <!-- Retina scaling dpr={[1, 2]} verified -->
 <!-- Milestone 7 complete -->
+<!-- 3D pipeline complete -->
