@@ -3,3 +3,4 @@ export const portfolioData = {};
 // bio & titles added
 // typo in bio
 /* bio spelling fixed */
+// Project & Experience interfaces
