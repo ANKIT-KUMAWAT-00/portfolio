@@ -4,3 +4,4 @@ export const portfolioData = {};
 // typo in bio
 /* bio spelling fixed */
 // Project & Experience interfaces
+// optional property error
