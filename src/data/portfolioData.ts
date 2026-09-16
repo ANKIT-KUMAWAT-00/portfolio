@@ -5,3 +5,4 @@ export const portfolioData = {};
 /* bio spelling fixed */
 // Project & Experience interfaces
 // optional property error
+/* optional property fix */
