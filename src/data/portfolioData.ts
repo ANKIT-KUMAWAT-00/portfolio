@@ -9,3 +9,4 @@ export const portfolioData = {};
 // flagship projects added
 // invalid url bug
 /* correct repo url */
+// work experience added
