@@ -10,3 +10,4 @@ export const portfolioData = {};
 // invalid url bug
 /* correct repo url */
 // work experience added
+// education & achievements added
