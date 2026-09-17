@@ -7,3 +7,4 @@ export const portfolioData = {};
 // optional property error
 /* optional property fix */
 // flagship projects added
+// invalid url bug
