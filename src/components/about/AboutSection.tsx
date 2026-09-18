@@ -8,3 +8,4 @@ export default function AboutSection() {
 // lucide icons: Brain, Cpu, Terminal, Shield
 // missing icon import error
 /* Terminal icon imported */
+// TiltCard wrapper
