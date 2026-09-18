@@ -5,3 +5,4 @@ export default function AboutSection() {
 // philosophy cards
 // grid breakpoint bug
 /* grid-cols-1 md:grid-cols-2 lg:grid-cols-3 */
+// lucide icons: Brain, Cpu, Terminal, Shield
