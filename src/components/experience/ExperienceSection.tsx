@@ -7,3 +7,4 @@ export default function ExperienceSection() {
 /* left-4 md:left-1/2 */
 // role timeline items
 // expandable achievements
+// scroll jump on expand
