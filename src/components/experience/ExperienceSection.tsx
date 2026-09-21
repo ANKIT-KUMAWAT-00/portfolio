@@ -6,3 +6,4 @@ export default function ExperienceSection() {
 // mobile stem line misalignment bug
 /* left-4 md:left-1/2 */
 // role timeline items
+// expandable achievements
