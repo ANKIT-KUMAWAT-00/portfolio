@@ -10,3 +10,4 @@ export default function ExperienceSection() {
 // scroll jump on expand
 /* AnimatePresence height auto */
 // tech stack pills
+// pills overflow bug
