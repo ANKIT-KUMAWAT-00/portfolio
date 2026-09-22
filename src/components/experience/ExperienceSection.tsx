@@ -11,3 +11,4 @@ export default function ExperienceSection() {
 /* AnimatePresence height auto */
 // tech stack pills
 // pills overflow bug
+/* flex-wrap gap-2 */
