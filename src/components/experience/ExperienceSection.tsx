@@ -8,3 +8,4 @@ export default function ExperienceSection() {
 // role timeline items
 // expandable achievements
 // scroll jump on expand
+/* AnimatePresence height auto */
