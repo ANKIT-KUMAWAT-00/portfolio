@@ -9,3 +9,4 @@ export default function ExperienceSection() {
 // expandable achievements
 // scroll jump on expand
 /* AnimatePresence height auto */
+// tech stack pills
