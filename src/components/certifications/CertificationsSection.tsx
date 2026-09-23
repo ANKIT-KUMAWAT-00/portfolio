@@ -4,3 +4,4 @@ export default function CertificationsSection() {
 }
 // certification credentials
 // target blank missing
+/* target _blank rel noopener */
