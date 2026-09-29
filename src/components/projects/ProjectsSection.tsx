@@ -6,3 +6,4 @@ export default function ProjectsSection() {
 // filter state bug
 /* activeCategory state wired */
 // 'All' category bug
+/* all category check */
