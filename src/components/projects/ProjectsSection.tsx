@@ -7,3 +7,4 @@ export default function ProjectsSection() {
 /* activeCategory state wired */
 // 'All' category bug
 /* all category check */
+// project card layout
