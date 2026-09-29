@@ -4,3 +4,4 @@ export default function ProjectsSection() {
 }
 // category filter tabs
 // filter state bug
+/* activeCategory state wired */
