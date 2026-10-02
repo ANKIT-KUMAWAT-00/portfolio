@@ -4,3 +4,4 @@ export default function ProjectVisuals({ projectId }: { projectId: string }) {
 }
 // architecture diagrams
 // SVG overflow bug
+/* viewBox & overflow-hidden */
