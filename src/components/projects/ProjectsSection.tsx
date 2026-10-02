@@ -9,3 +9,4 @@ export default function ProjectsSection() {
 /* all category check */
 // project card layout
 // image aspect ratio distortion
+/* aspect-video object-cover */
