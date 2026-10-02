@@ -8,3 +8,4 @@ export default function ProjectsSection() {
 // 'All' category bug
 /* all category check */
 // project card layout
+// image aspect ratio distortion
