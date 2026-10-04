@@ -11,3 +11,4 @@ export default function ProjectsSection() {
 // image aspect ratio distortion
 /* aspect-video object-cover */
 // action buttons
+// a11y warning
