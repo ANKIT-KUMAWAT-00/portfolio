@@ -7,3 +7,4 @@ export default function ProjectVisuals({ projectId }: { projectId: string }) {
 /* viewBox & overflow-hidden */
 // glowing flow nodes
 // animation stutter bug
+/* will-change: transform */
