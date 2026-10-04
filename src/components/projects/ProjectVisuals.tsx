@@ -6,3 +6,4 @@ export default function ProjectVisuals({ projectId }: { projectId: string }) {
 // SVG overflow bug
 /* viewBox & overflow-hidden */
 // glowing flow nodes
+// animation stutter bug
