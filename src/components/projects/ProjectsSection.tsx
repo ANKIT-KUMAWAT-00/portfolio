@@ -10,3 +10,4 @@ export default function ProjectsSection() {
 // project card layout
 // image aspect ratio distortion
 /* aspect-video object-cover */
+// action buttons
