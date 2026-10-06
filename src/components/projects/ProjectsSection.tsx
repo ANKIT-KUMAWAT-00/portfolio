@@ -13,3 +13,4 @@ export default function ProjectsSection() {
 // action buttons
 // a11y warning
 /* aria-label added */
+// impact badges
