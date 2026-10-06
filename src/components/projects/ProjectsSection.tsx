@@ -12,3 +12,4 @@ export default function ProjectsSection() {
 /* aspect-video object-cover */
 // action buttons
 // a11y warning
+/* aria-label added */
