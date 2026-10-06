@@ -15,3 +15,4 @@ export default function ProjectsSection() {
 /* aria-label added */
 // impact badges
 // badge wrapping issue
+/* text-xs px-2.5 py-1 */
