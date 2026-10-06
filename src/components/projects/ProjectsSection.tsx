@@ -14,3 +14,4 @@ export default function ProjectsSection() {
 // a11y warning
 /* aria-label added */
 // impact badges
+// badge wrapping issue
