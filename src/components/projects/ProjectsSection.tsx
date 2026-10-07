@@ -17,3 +17,4 @@ export default function ProjectsSection() {
 // badge wrapping issue
 /* text-xs px-2.5 py-1 */
 // case study modal
+// Escape key listener missing
