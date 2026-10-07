@@ -16,3 +16,4 @@ export default function ProjectsSection() {
 // impact badges
 // badge wrapping issue
 /* text-xs px-2.5 py-1 */
+// case study modal
