@@ -18,3 +18,4 @@ export default function ProjectsSection() {
 /* text-xs px-2.5 py-1 */
 // case study modal
 // Escape key listener missing
+/* Escape key listener */
