@@ -20,3 +20,4 @@ export default function ProjectsSection() {
 // Escape key listener missing
 /* Escape key listener */
 // body scroll lock missing
+/* body overflow hidden */
