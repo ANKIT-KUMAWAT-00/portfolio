@@ -19,3 +19,4 @@ export default function ProjectsSection() {
 // case study modal
 // Escape key listener missing
 /* Escape key listener */
+// body scroll lock missing
