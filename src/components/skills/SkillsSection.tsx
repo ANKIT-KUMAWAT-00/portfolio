@@ -5,3 +5,4 @@ export default function SkillsSection() {
 // skill category tabs
 // skill progress bars
 // early animation trigger
+/* whileInView once: true */
