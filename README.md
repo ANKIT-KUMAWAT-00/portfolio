@@ -31,3 +31,4 @@ Personal 3D AI portfolio for Ankit Kumawat.
 <!-- Milestone 8 complete -->
 <!-- 4K resolution audit passed -->
 <!-- Milestone 9 complete -->
+<!-- Project cards animation verified -->
