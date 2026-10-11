@@ -15,3 +15,4 @@ export default function Home() {
 // Navbar & Footer added to page
 // Hero mounted in page.tsx
 // content sections mounted
+// Projects, Skills, Engineering mounted
