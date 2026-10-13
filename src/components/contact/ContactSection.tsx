@@ -5,3 +5,4 @@ export default function ContactSection() {
 // form fields
 // cyber focus styles
 // placeholder contrast issue
+/* placeholder-zinc-500 */
