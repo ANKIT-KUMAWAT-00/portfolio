@@ -6,3 +6,4 @@ export default function ContactSection() {
 // cyber focus styles
 // placeholder contrast issue
 /* placeholder-zinc-500 */
+// character counter
