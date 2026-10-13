@@ -8,3 +8,4 @@ export default function ContactSection() {
 /* placeholder-zinc-500 */
 // character counter
 // counter event bug
+/* direct length binding */
