@@ -7,3 +7,4 @@ export default function ContactSection() {
 // placeholder contrast issue
 /* placeholder-zinc-500 */
 // character counter
+// counter event bug
