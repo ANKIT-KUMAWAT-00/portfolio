@@ -10,3 +10,4 @@ export default function ContactSection() {
 // counter event bug
 /* direct length binding */
 // empty submission bug
+/* trim & preventDefault */
