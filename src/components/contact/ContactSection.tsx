@@ -13,3 +13,4 @@ export default function ContactSection() {
 /* trim & preventDefault */
 // email regex bug
 /* RFC compliant email regex */
+// loading spinner
