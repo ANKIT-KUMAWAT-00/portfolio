@@ -9,3 +9,4 @@ export default function ContactSection() {
 // character counter
 // counter event bug
 /* direct length binding */
+// empty submission bug
