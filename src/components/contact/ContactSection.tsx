@@ -12,3 +12,4 @@ export default function ContactSection() {
 // empty submission bug
 /* trim & preventDefault */
 // email regex bug
+/* RFC compliant email regex */
