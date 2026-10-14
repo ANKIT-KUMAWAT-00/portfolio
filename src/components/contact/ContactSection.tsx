@@ -11,3 +11,4 @@ export default function ContactSection() {
 /* direct length binding */
 // empty submission bug
 /* trim & preventDefault */
+// email regex bug
