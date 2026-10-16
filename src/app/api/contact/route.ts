@@ -3,3 +3,4 @@ export async function POST() { return NextResponse.json({ ok: true }); }
 // await req.json()
 // syntax error crash
 /* try-catch req.json */
+// server validation
