@@ -9,3 +9,4 @@ export async function POST() { return NextResponse.json({ ok: true }); }
 // file overwrite bug
 /* read, push, write array */
 // nodemailer integration
+// missing SMTP env error
