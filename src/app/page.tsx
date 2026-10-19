@@ -16,3 +16,4 @@ export default function Home() {
 // Hero mounted in page.tsx
 // content sections mounted
 // Projects, Skills, Engineering mounted
+// ContactSection mounted
