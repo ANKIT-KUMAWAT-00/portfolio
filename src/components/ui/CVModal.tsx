@@ -7,3 +7,4 @@ export default function CVModal() { return null; }
 // overlay dismiss bug
 /* backdrop click handler */
 // automatic popup trigger
+// persistent popup annoying bug
