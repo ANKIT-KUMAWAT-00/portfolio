@@ -4,3 +4,4 @@ export default function CVModal() { return null; }
 // download button
 // 404 download bug
 /* resume href updated */
+// overlay dismiss bug
