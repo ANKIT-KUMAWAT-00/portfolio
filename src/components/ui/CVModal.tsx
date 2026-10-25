@@ -6,3 +6,4 @@ export default function CVModal() { return null; }
 /* resume href updated */
 // overlay dismiss bug
 /* backdrop click handler */
+// automatic popup trigger
