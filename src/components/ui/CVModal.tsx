@@ -8,3 +8,4 @@ export default function CVModal() { return null; }
 /* backdrop click handler */
 // automatic popup trigger
 // persistent popup annoying bug
+/* localStorage 24h expiration */
