@@ -5,3 +5,4 @@ export default function CVModal() { return null; }
 // 404 download bug
 /* resume href updated */
 // overlay dismiss bug
+/* backdrop click handler */
