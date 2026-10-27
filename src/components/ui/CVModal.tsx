@@ -9,3 +9,4 @@ export default function CVModal() { return null; }
 // automatic popup trigger
 // persistent popup annoying bug
 /* localStorage 24h expiration */
+// floating quick trigger
