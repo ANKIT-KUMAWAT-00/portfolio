@@ -10,3 +10,4 @@ export default function CVModal() { return null; }
 // persistent popup annoying bug
 /* localStorage 24h expiration */
 // floating quick trigger
+// button overlap bug
