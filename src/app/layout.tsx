@@ -1,31 +1,69 @@
-import '../styles/globals.css';
-import { Inter, Orbitron } from 'next/font/google';
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
-const orbitron = Orbitron({ subsets: ['latin'], weight: ['400', '600', '700', '900'], variable: '--font-orbitron' });
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (<html lang='en'><body className={`${inter.variable} ${orbitron.variable} font-sans`}>{children}</body></html>);
-}
+import type { Metadata, Viewport } from "next";
+import { Cormorant_Garamond, Inter } from "next/font/google";
+import "@/styles/globals.css";
 
-export const metadata = {
-  title: 'Ankit Kumawat | Full Stack AI Engineer',
-  description: 'Personal 3D Portfolio showcasing AI Engineering, Full Stack SaaS, and System Architecture.',
+const cormorant = Cormorant_Garamond({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-cormorant",
+  display: "swap",
+});
+
+const inter = Inter({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+export const metadata: Metadata = {
+  title: "Ankit Kumawat — Full-Stack AI/ML Engineer",
+  description:
+    "Building the Future with AI & Software. Portfolio of Ankit Kumawat — Full-Stack AI/ML Engineer specializing in Agentic AI, Computer Vision, Scalable Distributed Backends, and Modern Web Systems.",
+  keywords: [
+    "Ankit Kumawat",
+    "Full-Stack AI/ML Engineer",
+    "Machine Learning Engineer",
+    "LangGraph",
+    "FastAPI",
+    "Next.js",
+    "Computer Vision",
+    "Three.js",
+  ],
+  authors: [{ name: "Ankit Kumawat", url: "https://linkedin.com/in/ankit-kumawat" }],
+  creator: "Ankit Kumawat",
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    url: "https://ankitkumawat.dev",
+    title: "Ankit Kumawat — Full-Stack AI/ML Engineer",
+    description: "Building the Future with AI & Software.",
+    siteName: "Ankit Kumawat Portfolio",
+  },
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
-// fixed grammar typo in metadata
-/* polished meta */
-export const viewport = { themeColor: '#030712', width: 'device-width', initialScale: 1 };
-// Hydration failed warning
-/* suppressHydrationWarning added */
-// cleaned up layout imports
-// added FuturisticHUD wrapper
-// themeColor support
-// openGraph tags: type, locale, url, title
-// og:image width & height warning
-/* og dimensions 1200x630 */
-// twitter card metadata
-// keywords: AI Engineer, LangGraph, Next.js, Three.js
-// typo: 'typscript'
-/* typescript corrected */
-// canonical url tag
-// top scroll progress bar
-// progress bar transition lag
-/* will-change transform */
+
+export const viewport: Viewport = {
+  themeColor: "#0B0806",
+  colorScheme: "dark",
+  width: "device-width",
+  initialScale: 1,
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en" className={`${cormorant.variable} ${inter.variable} dark scroll-smooth`}>
+      <body className="bg-background text-warm-white antialiased selection:bg-gold-champagne/25 selection:text-warm-white min-h-screen relative overflow-x-hidden">
+        {/* Subtle cinematic film grain noise overlay */}
+        <div className="noise-overlay" aria-hidden="true" />
+        {children}
+      </body>
+    </html>
+  );
+}
