@@ -120,4 +120,3 @@ All facts, projects, technologies, and achievements are verified directly agains
 - **Four-Layer Secure Auth:** Python, OpenCV, Face Recognition, Flask, Email/OTP API.
 - **Achievements:** 100+ LeetCode problems solved, 50 Days LeetCode badge (July 2026), Multiple HackerRank Python badges, Rank 7 in CSE Category at CSE Section of the Year 2024 Hackathon.
 - **Education:** Lovely Professional University, B.Tech CSE, CGPA 7.32 (Aug 2024 – Present).
-<!-- Final Build: 100% Passed -->
