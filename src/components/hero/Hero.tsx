@@ -101,3 +101,4 @@ export function Hero() {
   );
 }
 // clean debug logs
+// badge text wrap issue
