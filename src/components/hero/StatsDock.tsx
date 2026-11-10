@@ -74,3 +74,4 @@ export function StatsDock() {
     </div>
   );
 }
+// safari font weight issue
