@@ -64,3 +64,4 @@ export function HeroPortrait({ mouseParallax }: HeroPortraitProps) {
   );
 }
 /* shadow spread adjusted */
+// firefox clipping bug
