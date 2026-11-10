@@ -63,3 +63,4 @@ export function HeroPortrait({ mouseParallax }: HeroPortraitProps) {
     </div>
   );
 }
+/* shadow spread adjusted */
