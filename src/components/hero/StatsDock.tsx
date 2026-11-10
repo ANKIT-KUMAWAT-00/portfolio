@@ -76,3 +76,4 @@ export function StatsDock() {
 }
 // safari font weight issue
 /* font-bold text-glow */
+/* hover:scale-105 */
