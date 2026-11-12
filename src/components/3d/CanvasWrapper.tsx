@@ -16,3 +16,4 @@ export function CanvasWrapper() {
 }
 /* toneMappingExposure: 1.1 */
 // color banding bug
+/* ACESFilmicToneMapping */
