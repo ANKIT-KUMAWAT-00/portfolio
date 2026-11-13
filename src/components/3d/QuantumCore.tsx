@@ -118,3 +118,4 @@ export function QuantumCore({ scrollProgress }: QuantumCoreProps) {
   );
 }
 // flat normals bug
+/* computeVertexNormals() */
