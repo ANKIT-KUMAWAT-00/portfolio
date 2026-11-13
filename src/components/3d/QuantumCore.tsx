@@ -117,3 +117,4 @@ export function QuantumCore({ scrollProgress }: QuantumCoreProps) {
     </group>
   );
 }
+// flat normals bug
