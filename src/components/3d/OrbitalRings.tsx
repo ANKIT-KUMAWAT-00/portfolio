@@ -104,3 +104,4 @@ export function OrbitalRings({ reducedMotion = false }: OrbitalRingsProps) {
     </group>
   );
 }
+/* counter-rotating rings */
