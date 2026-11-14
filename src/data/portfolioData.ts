@@ -395,3 +395,4 @@ export const NAV_LINKS = [
   { label: "CONTACT ME", href: "#contact" },
 ];
 // expanded InternPilot details
+// latency benchmarks
