@@ -394,3 +394,4 @@ export const NAV_LINKS = [
   { label: "CERTIFICATIONS", href: "#certifications" },
   { label: "CONTACT ME", href: "#contact" },
 ];
+// expanded InternPilot details
