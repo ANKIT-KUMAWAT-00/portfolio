@@ -397,3 +397,4 @@ export const NAV_LINKS = [
 // expanded InternPilot details
 // latency benchmarks
 // ResumeIQ architecture
+// typo: Pintcone
