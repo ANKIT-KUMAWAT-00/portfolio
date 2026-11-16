@@ -222,3 +222,4 @@ export function ProjectVisuals({ projectId }: VisualProps) {
     </div>
   );
 }
+/* stroke-dasharray animation */
