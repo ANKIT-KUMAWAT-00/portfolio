@@ -224,3 +224,4 @@ export function ProjectVisuals({ projectId }: VisualProps) {
 }
 /* stroke-dasharray animation */
 // CPU usage spike
+/* offscreen pause */
