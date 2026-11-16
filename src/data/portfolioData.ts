@@ -398,3 +398,4 @@ export const NAV_LINKS = [
 // latency benchmarks
 // ResumeIQ architecture
 // typo: Pintcone
+/* Pinecone corrected */
