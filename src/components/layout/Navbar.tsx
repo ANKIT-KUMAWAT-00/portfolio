@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { NAV_LINKS, PERSONAL_DATA } from "@/data/portfolioData";
-import { Menu, X, ArrowUpRight, FileText } from "lucide-react";
+import { Menu, X, FileText } from "lucide-react";
 
 interface NavbarProps {
   onOpenCV?: () => void;
@@ -91,13 +91,13 @@ export function Navbar({ onOpenCV }: NavbarProps) {
               );
             })}
 
-            {/* Interactive CV Popup Trigger */}
+            {/* Interactive CV Viewer Trigger */}
             <button
               onClick={onOpenCV}
               className="text-[10px] tracking-[0.2em] font-medium text-gold-champagne bg-surface-deep/80 border border-gold-antique/30 px-3.5 py-1.5 rounded hover:bg-gold-antique/15 hover:border-gold-champagne transition-all duration-300 flex items-center gap-1.5 shadow-[0_0_15px_rgba(217,183,131,0.2)]"
             >
               <FileText className="w-3 h-3" />
-              <span>POPUP CV</span>
+              <span>VIEW CV</span>
             </button>
           </nav>
 
@@ -141,7 +141,7 @@ export function Navbar({ onOpenCV }: NavbarProps) {
             className="mt-4 flex items-center justify-center gap-2 py-3 px-6 bg-gold-champagne text-[#0B0806] font-medium text-xs tracking-[0.2em] rounded"
           >
             <FileText className="w-4 h-4" />
-            <span>POPUP CV MODAL</span>
+            <span>VIEW CV</span>
           </button>
         </div>
       </div>

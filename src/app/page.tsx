@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Navbar } from "@/components/layout/Navbar";
 import { Hero } from "@/components/hero/Hero";
 import { AboutSection } from "@/components/about/AboutSection";
@@ -19,26 +19,12 @@ import { CVModal, FloatingCVButton } from "@/components/ui/CVModal";
 export default function Home() {
   const [cvModalOpen, setCvModalOpen] = useState(false);
 
-  // Automatically pop up the CV when someone is visiting the website
-  useEffect(() => {
-    const hasVisited = sessionStorage.getItem("ankit_cv_visited_auto_pop");
-    if (!hasVisited) {
-      // 1.4-second cinematic entrance delay
-      const timer = setTimeout(() => {
-        setCvModalOpen(true);
-        sessionStorage.setItem("ankit_cv_visited_auto_pop", "true");
-      }, 1400);
-
-      return () => clearTimeout(timer);
-    }
-  }, []);
-
   return (
     <main className="min-h-screen bg-[#0B0806] text-warm-white relative flex flex-col selection:bg-gold-champagne/25 selection:text-warm-white">
       {/* Persistent Global 3D Three.js WebGL Scene Across the WHOLE Website */}
       <CanvasWrapper />
 
-      {/* Floating Transparent Navigation with CV Popup Trigger */}
+      {/* Floating Transparent Navigation with CV Trigger */}
       <Navbar onOpenCV={() => setCvModalOpen(true)} />
 
       {/* Hero Section with Portrait & Chiaroscuro 3D Environment */}
@@ -77,7 +63,7 @@ export default function Home() {
       {/* Floating Quick-Access CV Trigger */}
       <FloatingCVButton onClick={() => setCvModalOpen(true)} />
 
-      {/* High-Tech Futuristic CV Pop-up Modal */}
+      {/* High-Tech Futuristic CV Pop-up Modal (Opens ONLY on Click) */}
       <CVModal isOpen={cvModalOpen} onClose={() => setCvModalOpen(false)} />
     </main>
   );
