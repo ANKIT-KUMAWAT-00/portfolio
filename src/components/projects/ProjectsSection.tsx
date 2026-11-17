@@ -155,3 +155,4 @@ export function ProjectsSection() {
 }
 /* category count badges */
 // badge vertical alignment
+/* inline-flex items-center */
