@@ -153,3 +153,4 @@ export function ProjectsSection() {
     </section>
   );
 }
+/* category count badges */
