@@ -14,6 +14,3 @@ const Global3DScene = dynamic(
 export function CanvasWrapper() {
   return <Global3DScene />;
 }
-/* toneMappingExposure: 1.1 */
-// color banding bug
-/* ACESFilmicToneMapping */

@@ -63,6 +63,3 @@ export function HeroPortrait({ mouseParallax }: HeroPortraitProps) {
     </div>
   );
 }
-/* shadow spread adjusted */
-// firefox clipping bug
-/* p-4 container padding */

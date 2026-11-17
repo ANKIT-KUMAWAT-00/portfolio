@@ -148,4 +148,3 @@ export function Navbar({ onOpenCV }: NavbarProps) {
     </>
   );
 }
-// exports verified

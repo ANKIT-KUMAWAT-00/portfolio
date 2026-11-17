@@ -153,6 +153,3 @@ export function ProjectsSection() {
     </section>
   );
 }
-/* category count badges */
-// badge vertical alignment
-/* inline-flex items-center */

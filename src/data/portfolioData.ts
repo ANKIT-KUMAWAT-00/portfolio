@@ -394,11 +394,3 @@ export const NAV_LINKS = [
   { label: "CERTIFICATIONS", href: "#certifications" },
   { label: "CONTACT ME", href: "#contact" },
 ];
-// expanded InternPilot details
-// latency benchmarks
-// ResumeIQ architecture
-// typo: Pintcone
-/* Pinecone corrected */
-// uptime metrics
-// link audit passed
-/* formatted portfolioData */

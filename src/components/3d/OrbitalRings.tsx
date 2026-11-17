@@ -104,6 +104,3 @@ export function OrbitalRings({ reducedMotion = false }: OrbitalRingsProps) {
     </group>
   );
 }
-/* counter-rotating rings */
-// unmount error
-/* ref existence check */

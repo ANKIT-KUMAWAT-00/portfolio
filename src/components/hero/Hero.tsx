@@ -100,6 +100,3 @@ export function Hero() {
     </section>
   );
 }
-// clean debug logs
-// badge text wrap issue
-/* text-xs whitespace-nowrap */

@@ -222,6 +222,3 @@ export function ProjectVisuals({ projectId }: VisualProps) {
     </div>
   );
 }
-/* stroke-dasharray animation */
-// CPU usage spike
-/* offscreen pause */
