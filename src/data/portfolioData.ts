@@ -86,7 +86,7 @@ export const PROJECTS: ProjectItem[] = [
     number: "01",
     title: "InternPilot — AI Internship Agent",
     category: "Autonomous Agentic AI & Automation",
-    period: "Aug 2026 – Oct 2026",
+    period: "Aug 2026 – Present",
     stackString: "LangGraph, Next.js, FastAPI, Gemini API, pgvector, Redis, Docker",
     headline: "Autonomous multi-agent workflow that searches, evaluates, and tailors internship applications.",
     description:
