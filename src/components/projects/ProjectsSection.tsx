@@ -128,20 +128,34 @@ export function ProjectsSection() {
                   </div>
 
                   {/* Action Buttons */}
-                  <div className="flex items-center gap-4">
+                  <div className="flex flex-wrap items-center gap-3 sm:gap-4">
+                    {/* Live Project URL (if deployed) */}
+                    {project.liveUrl && (
+                      <a
+                        href={project.liveUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 px-5 py-2.5 rounded bg-gradient-to-r from-gold-champagne to-gold-antique text-[#0B0806] font-mono text-xs font-bold tracking-[0.14em] uppercase hover:shadow-[0_0_20px_rgba(217,183,131,0.45)] hover:scale-[1.02] active:scale-[0.98] transition-all duration-300"
+                      >
+                        <ExternalLink className="w-4 h-4" />
+                        <span>Live Project Demo</span>
+                      </a>
+                    )}
+
+                    {/* Direct Project GitHub Repository */}
                     <a
                       href={project.githubUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 px-5 py-2.5 rounded bg-surface-deep border border-gold-antique/30 hover:border-gold-champagne text-warm-white hover:text-gold-champagne text-xs font-mono tracking-[0.14em] uppercase transition-all duration-300"
+                      className="inline-flex items-center gap-2 px-5 py-2.5 rounded bg-surface-deep border border-gold-antique/30 hover:border-gold-champagne text-warm-white hover:text-gold-champagne text-xs font-mono tracking-[0.14em] uppercase hover:scale-[1.02] active:scale-[0.98] transition-all duration-300"
                     >
                       <Github className="w-4 h-4" />
-                      <span>GitHub Repository</span>
+                      <span>{project.liveUrl ? "Source Code" : "Project Repository"}</span>
                     </a>
 
-                    <span className="text-[11px] font-mono text-warm-muted/60 italic flex items-center gap-1.5">
-                      <span className="w-1.5 h-1.5 rounded-full bg-emerald-400" />
-                      Production Architecture
+                    <span className="text-[11px] font-mono text-warm-muted/70 italic flex items-center gap-1.5 ml-auto">
+                      <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+                      {project.liveUrl ? "Live Production" : "Production Architecture"}
                     </span>
                   </div>
                 </div>

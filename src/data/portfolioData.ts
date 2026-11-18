@@ -38,6 +38,7 @@ export interface CertificationItem {
   badge: string;
   type: "certification" | "training";
   linkText?: string;
+  url?: string;
 }
 
 export interface EducationItem {
@@ -67,7 +68,7 @@ export const PERSONAL_DATA = {
     phone: "+91-9928446504",
     location: "Punjab / Rajasthan, India",
     github: "https://github.com/ANKIT-KUMAWAT-00",
-    linkedin: "https://linkedin.com/in/ankit-kumawat",
+    linkedin: "https://www.linkedin.com/in/ankit-kumawat-5b5868310/",
     leetcode: "https://leetcode.com/u/ankitkumawat/",
     hackerrank: "https://www.hackerrank.com/profile/ankitkumawat",
   },
@@ -108,7 +109,7 @@ export const PROJECTS: ProjectItem[] = [
       "Cryptographically secure JWT session management and API authorization",
     ],
     technologies: ["LangGraph", "Next.js", "FastAPI", "Gemini API", "pgvector", "Redis", "Docker", "JWT", "PostgreSQL"],
-    githubUrl: "https://github.com/ANKIT-KUMAWAT-00",
+    githubUrl: "https://github.com/ANKIT-KUMAWAT-00/Internship-Agent",
     liveUrl: null,
     featured: true,
   },
@@ -140,8 +141,8 @@ export const PROJECTS: ProjectItem[] = [
       "End-to-end Razorpay subscription billing and invoice management",
     ],
     technologies: ["Next.js", "React", "TypeScript", "Supabase", "Gemini API", "Tailwind CSS", "Razorpay"],
-    githubUrl: "https://github.com/ANKIT-KUMAWAT-00",
-    liveUrl: null,
+    githubUrl: "https://github.com/ANKIT-KUMAWAT-00/resumeiq-ai",
+    liveUrl: "https://resumeiq-ai-pink.vercel.app",
     featured: true,
   },
   {
@@ -172,7 +173,7 @@ export const PROJECTS: ProjectItem[] = [
       "Zero-trust fail-closed security policy enforcing all four verification pillars",
     ],
     technologies: ["Python", "OpenCV", "Face Recognition", "Flask", "OTP API", "NumPy"],
-    githubUrl: "https://github.com/ANKIT-KUMAWAT-00",
+    githubUrl: "https://github.com/ANKIT-KUMAWAT-00/secure-os-scheduler",
     liveUrl: null,
     featured: true,
   },
@@ -322,6 +323,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     badge: "Certificate",
     type: "certification",
     linkText: "Certificate",
+    url: "https://www.cipherschools.com/certificate/preview?id=6a759c968fd0080a9fbf8c84",
   },
   {
     title: "Summer Training Internship – DSA and OOPS",
@@ -330,6 +332,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     badge: "Certificate",
     type: "training",
     linkText: "Certificate",
+    url: "https://www.cipherschools.com/certificate/preview?id=6a759c968fd0080a9fbf8c84",
   },
   {
     title: "Java",
@@ -338,6 +341,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     badge: "Certificate",
     type: "training",
     linkText: "Certificate",
+    url: "https://lpucolab438.examly.io/certificate/U2FsdGVkX19uBrNvxBH71KdGdG36NmxcmSeym3%2BQo3Y%3D",
   },
   {
     title: "C++ with OOPS",
@@ -346,6 +350,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     badge: "Certificate",
     type: "training",
     linkText: "Certificate",
+    url: "https://lpucolab438.examly.io/certificate/U2FsdGVkX19Ujh5qXBXQx7PvFc32wAChyO9QoPyc%2B1E%3D",
   },
   {
     title: "Data Structures and Algorithms (DSA)",
@@ -354,6 +359,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     badge: "Certificate",
     type: "training",
     linkText: "Certificate",
+    url: "https://lpucolab438.examly.io/certificate/U2FsdGVkX1%2FNCw57ULoIYrqSaCBkPC%2FC0zZZWUKjgs0%3D",
   },
 ];
 

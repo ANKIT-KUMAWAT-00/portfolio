@@ -13,7 +13,8 @@ export function EngineeringSection() {
       language: "Python / TypeScript",
       stars: "Public",
       forks: "Active",
-      url: PERSONAL_DATA.contact.github,
+      url: "https://github.com/ANKIT-KUMAWAT-00/Internship-Agent",
+      liveUrl: null,
     },
     {
       name: "ResumeIQ-AI",
@@ -21,15 +22,17 @@ export function EngineeringSection() {
       language: "TypeScript / Next.js",
       stars: "Public",
       forks: "Active",
-      url: PERSONAL_DATA.contact.github,
+      url: "https://github.com/ANKIT-KUMAWAT-00/resumeiq-ai",
+      liveUrl: "https://resumeiq-ai-pink.vercel.app",
     },
     {
       name: "Four-Layer-Auth-System",
       description: "Multi-factor zero-trust biometric system combining real-time OpenCV hand gestures and facial recognition.",
-      language: "Python / Flask",
+      language: "JavaScript / Python",
       stars: "Public",
       forks: "Active",
-      url: PERSONAL_DATA.contact.github,
+      url: "https://github.com/ANKIT-KUMAWAT-00/secure-os-scheduler",
+      liveUrl: null,
     },
   ];
 
